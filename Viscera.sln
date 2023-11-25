@@ -5,9 +5,11 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Viscera.WebAPI", "Viscera.WebAPI\Viscera.WebAPI.csproj", "{D44DCEA1-B38F-4A4B-9DA6-902A08C82594}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viscera.WebUI", "Viscera.WebUI\Viscera.WebUI.csproj", "{43B2A866-296B-41C1-B7D6-BB293975D72D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Viscera.WebUI", "Viscera.WebUI\Viscera.WebUI.csproj", "{43B2A866-296B-41C1-B7D6-BB293975D72D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viscera.MobileUI", "Viscera.MobileUI\Viscera.MobileUI.csproj", "{1695BDFA-95FA-4230-B131-53EB2F298CB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Viscera.MobileUI", "Viscera.MobileUI\Viscera.MobileUI.csproj", "{1695BDFA-95FA-4230-B131-53EB2F298CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viscera.DA", "Viscera.DA\Viscera.DA.csproj", "{1F9FC4C3-C308-41B5-8761-F2C09F0DA29D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{1695BDFA-95FA-4230-B131-53EB2F298CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1695BDFA-95FA-4230-B131-53EB2F298CB6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1695BDFA-95FA-4230-B131-53EB2F298CB6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1F9FC4C3-C308-41B5-8761-F2C09F0DA29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9FC4C3-C308-41B5-8761-F2C09F0DA29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9FC4C3-C308-41B5-8761-F2C09F0DA29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9FC4C3-C308-41B5-8761-F2C09F0DA29D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
