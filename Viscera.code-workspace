@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Viscera.WebAPI"
+		},
+		{
+			"path": "Viscera.WebUI"
+		},
+		{
+			"path": "Viscera.MobileUI"
+		},
+		{
+			"path": "Viscera.DA"
+		}
+	],
+	"settings": {}
+}
