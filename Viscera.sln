@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Viscera.MobileUI", "Viscera
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Viscera.DA", "Viscera.DA\Viscera.DA.csproj", "{1F9FC4C3-C308-41B5-8761-F2C09F0DA29D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viscera.BL", "Viscera.BL\Viscera.BL.csproj", "{A3A4398C-17AD-4F1D-A739-4D2BC7F735A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Viscera.BL", "Viscera.BL\Viscera.BL.csproj", "{A3A4398C-17AD-4F1D-A739-4D2BC7F735A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viscera.Console", "Viscera.Console\Viscera.Console.csproj", "{40141270-2D15-4A91-BE43-84F3452EA46E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{A3A4398C-17AD-4F1D-A739-4D2BC7F735A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3A4398C-17AD-4F1D-A739-4D2BC7F735A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3A4398C-17AD-4F1D-A739-4D2BC7F735A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40141270-2D15-4A91-BE43-84F3452EA46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40141270-2D15-4A91-BE43-84F3452EA46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40141270-2D15-4A91-BE43-84F3452EA46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40141270-2D15-4A91-BE43-84F3452EA46E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
